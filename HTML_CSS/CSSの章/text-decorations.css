@@ -1,0 +1,7 @@
+.decoration{
+  /* ここにCSSをかいていきます */
+  font-weight: bold;
+  font-family: "游ゴシック体","YuGothic","游ゴシック","Yu Gothic";
+  font-style: italic;
+  line-height: 4.5;
+}
